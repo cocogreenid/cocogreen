@@ -360,7 +360,7 @@ nav {
 }
 
 .banner__card:nth-child(1) {
-  background-image: url("Assets/img/pupuk.png");
+  background-image: url("assets/img/pupuk.png");
 }
 
 .banner__card:nth-child(2) {
@@ -503,7 +503,7 @@ nav {
 }
 
 .footer {
-  background-image: url("Assets/img/header.png");
+  background-image: url("assets/img/header.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
